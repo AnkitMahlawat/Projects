@@ -2,4 +2,4 @@
 It is a elevator hardware programming code in vhdl language.
 
 ### problem Statement
-is given in Lift-controller.pdf
+is given in Lift_controller.pdf
