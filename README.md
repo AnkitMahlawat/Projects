@@ -38,12 +38,12 @@ Github link : https://github.com/AnkitMahlawat/Projects/tree/master/FlightTripPl
 ## Problem Statement : ARM Assembly Program Simulator
 ● Parse the given an ARM assembly program as input to simulator and use an
 appropriate representation to store it in an array, with each array element
-representing an instruction.
-● Resolve the addresses of the labels
-● Simulation starts with the Program Counter (PC) pointing to the first instruction.
+representing an instruction.<br>
+● Resolve the addresses of the labels<br>
+● Simulation starts with the Program Counter (PC) pointing to the first instruction.<br>
 ● Execute the instruction. Display the values of the Register File and Memory
-contents as a result of executing the instruction.
-● Proceed to the next instruction and continue the execution.
+contents as a result of executing the instruction.<br>
+● Proceed to the next instruction and continue the execution.<br>
 ● Simulation stops when there is no further instruction to execute.
 At the end of execution, report any interesting statistics regarding the number and types
 of instructions executed, etc.
