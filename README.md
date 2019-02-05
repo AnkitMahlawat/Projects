@@ -114,8 +114,7 @@ Github Link : https://github.com/AnkitMahlawat/Projects/tree/master/Lift%20Contr
 # Project : BigInt Package for sml
 ## Problem statement:
 Can be read by clicking at this link
-https://github.com/AnkitMahlawat/ProgrammingLanguage/blob/master/Assignment1/Bigi
-nt-functor.pdf
+https://github.com/AnkitMahlawat/ProgrammingLanguage/blob/master/Assignment1/Bigint-functor.pdf
 ## My Solution:
 Language used : sml(functional language)
 Used signature and functor concept of sml to implement the package all functions are
