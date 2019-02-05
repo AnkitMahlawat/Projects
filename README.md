@@ -7,7 +7,7 @@ city2 departure-time arrival-time flight-no. price" This means that there is a f
 time "departure-time" and arrives city2 at time "arrival-time". Further the price of this
 flight is "price" which is a positive integer. All times are given as a string of 4 digits in the
 24hr format e.g. 1135, 0245, 2210. Assume that all city names are integers between 1
-and a number N (where N is the total number of cities).
+and a number N (where N is the total number of cities).<br>
 **Note** that there could be multiple flights between two cities .
 The query that you have to answer is: given two cities "A" and "B", times "t1", "t2",
 where t1 < t2, find the cheapest trip which leaves city "A" after time "t1" and arrives at
