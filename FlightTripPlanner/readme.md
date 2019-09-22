@@ -51,7 +51,7 @@ I have used heap data structure to work around the solution first all the input 
 time.
 > The flight with minimum departure time which lies between the time gap and is visited
 is stored in the adjacency list at the arrival location.
-> If another flight is find which has the price lower than the previous one than a node is
+> If another flight is found which has the price lower than the previous one than a node is
 added in the front.
 > This process is repeated until the departure_time of the first element of heap is more
 than the time gap.
