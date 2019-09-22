@@ -70,8 +70,7 @@ Language used : C<br>
 Many problems like memory allocation and control hazard and data hazard are also
 handled carefully.<br>
 Github link :
-https://github.com/AnkitMahlawat/Projects/tree/master/ArmSim/ArmSim_Simula
-tor
+https://github.com/AnkitMahlawat/Projects/tree/master/ArmSim/ArmSim_Simulator
 # Project : Lift Controller
 ## Problem Statement :
 Design an elevator control system for 2 elevators which moves across 4 floors.
